@@ -1,2 +1,2 @@
 # Moving-Objcect-Detection--OpenCV
-This OpenCV project detects moving objects 
+This OpenCV project detects a moving object.
